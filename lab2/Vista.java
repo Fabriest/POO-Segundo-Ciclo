@@ -1,3 +1,6 @@
+//Autor: Fabricio Estrada 25230
+//Laboratorio 2
+
 import java.util.*;
 
 public class Vista {
